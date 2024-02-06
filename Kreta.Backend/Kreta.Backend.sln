@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kreta.Backend", "Kreta.Backend.csproj", "{05C37EFE-6D0C-4726-927D-BCB239B436F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kreta.Shared", "..\Kreta.Shared\Kreta.Shared.csproj", "{3CBB1BF1-E4C2-476C-96AA-251ED89EEE59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05C37EFE-6D0C-4726-927D-BCB239B436F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05C37EFE-6D0C-4726-927D-BCB239B436F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05C37EFE-6D0C-4726-927D-BCB239B436F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05C37EFE-6D0C-4726-927D-BCB239B436F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CBB1BF1-E4C2-476C-96AA-251ED89EEE59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CBB1BF1-E4C2-476C-96AA-251ED89EEE59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CBB1BF1-E4C2-476C-96AA-251ED89EEE59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CBB1BF1-E4C2-476C-96AA-251ED89EEE59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6C716AA-5DC6-4183-A675-E5EEB67051D5}
+	EndGlobalSection
+EndGlobal
